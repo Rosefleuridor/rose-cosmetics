@@ -176,4 +176,17 @@ export default function AboutPage() {
                   <div className="bg-rose-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm">3</div>
                   <div>
                     <h4 className="font-semibold text-lg">Going Digital</h4>
-                    \
+                    <p className="text-gray-700">
+                      We launched our online platform to offer educational content and premium 
+                      products to a wider audience, empowering more women through beauty.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </CardContent>
+          </Card>
+        </div>
+      </div>
+    </div>
+  )
+}
